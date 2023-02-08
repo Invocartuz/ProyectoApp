@@ -1,1 +1,1 @@
-# ProyectoApp
+# ProyectoApp, este es un repositorio de una app que estoy creando mientras aprendo programacion.
